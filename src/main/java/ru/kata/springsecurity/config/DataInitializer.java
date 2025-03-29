@@ -38,7 +38,7 @@ public class DataInitializer {
                 admin.setFirstName("Admin");
                 admin.setLastName("Adminov");
                 admin.setEmail("admin@example.com");
-                admin.setAge(30);
+                admin.setAge(88);
                 admin.setRoles(roles);
                 userRepository.save(admin);
             }
@@ -54,7 +54,7 @@ public class DataInitializer {
                 user.setFirstName("User");
                 user.setLastName("Userov");
                 user.setEmail("user@example.com");
-                user.setAge(25);
+                user.setAge(69);
                 user.setRoles(roles);
                 userRepository.save(user);
             }
