@@ -1,4 +1,4 @@
-package ru.kata.springsecurity.controllers;
+package ru.kata.springsecurity.restcontrollers;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

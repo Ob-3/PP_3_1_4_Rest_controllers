@@ -10,4 +10,5 @@ public interface RoleService {
     Optional<Role> findByName(String name);
     Role save(Role role);
     void deleteById(Long id);
+
 }
